@@ -13,7 +13,7 @@ Inspired by the Terraria mod. Built for Linux. Absolutely unnecessary.
 
 ## Setup
 
-Put your own media files next to `foxy.py` (they are not included in this repo):
+you can Put your own media files next to `foxy.py`:
 
 - `foxy-jumpscare.webp` (animated, with transparency) and `foxy-sound.mp3`
 
@@ -39,4 +39,4 @@ FOXY_SCREEN=1 sh foxy.sh --test
 ## Notes
 
 Five Nights at Freddy's and Foxy belong to their respective owners. This is an
-unofficial fan project; bring your own media.
+unofficial fan project
