@@ -1,7 +1,9 @@
 # Foxy Jumpscare
 
-A tiny Linux prank if you hate yourself or want to feel something. it runs in the background, plays a
+A tiny Linux prank if you hate yourself or want to feel something.Gives a Psychological warfare by running 1-in-10,000 chance every second., plays a
 transparent fullscreen foxy jumpscare animation with sound on your screen.
+
+Inspired by the Terraria mod. Built for Linux. Absolutely unnecessary.
 
 ## Requirements
 
