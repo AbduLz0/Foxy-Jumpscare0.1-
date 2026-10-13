@@ -1,7 +1,7 @@
 # Foxy Jumpscare
 
-A tiny Linux prank: runs in the background and, at a random moment, plays a
-transparent fullscreen jumpscare animation with sound on your screen.
+A tiny Linux prank if you hate yourself or want to feel something. it runs in the background, plays a
+transparent fullscreen foxy jumpscare animation with sound on your screen.
 
 ## Requirements
 
