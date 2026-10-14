@@ -36,7 +36,3 @@ If it shows on the wrong monitor, pick the screen manually:
 FOXY_SCREEN=1 sh foxy.sh --test
 ```
 
-## Notes
-
-Five Nights at Freddy's and Foxy belong to their respective owners. This is an
-unofficial fan project
